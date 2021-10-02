@@ -3,7 +3,9 @@ Historic Prices for Coin Market Caps Top 100 Coins as of March 31st.
 List of all Included Coins: 
 
 BTC - Bitcoin
+
 ETH - Ethereum
+
 USDT - Usd (Tether)
 BNB - Binance Coin
 ADA - Cardano
