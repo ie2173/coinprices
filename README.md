@@ -1,4 +1,4 @@
-Historic Prices for Coin Market Caps Top 100 Coins as of March 31st.  
+Historic Prices for Coin Market Caps Top 100 Coins as of March 31st.  Incremented in 5 minute intervals (Approx the monthly call limit Coin Market Cap allows on their free api)
 
 List of all Included Coins: 
 
